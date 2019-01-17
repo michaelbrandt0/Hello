@@ -1,4 +1,4 @@
-/***  Author: Michael Brandt
+/***  Author: Samuel Pierce
 *  Date: 2019/01/15
 *
 *  A simple hello world program in C
@@ -8,10 +8,7 @@
 #include<stdio.h>
 
 int main(int argc, char **argv) {
-  printf("Michael Brandt\n");
-  printf("Major: Computer Engineering\n");
   printf("Samuel Pierce\n");
-  printf("Major: Math and German\n");
 
   return 0;
 }
